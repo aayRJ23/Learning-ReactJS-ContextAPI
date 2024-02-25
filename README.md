@@ -7,17 +7,16 @@ This is a simple demonstration of how to use the React Context API to manage glo
 To run this example locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/react-context-api-example.git
+   git clone https://github.com/aayRJ23/Learning-ReactJS-ContextAPI.git
    
 2. Navigate to the project directory:
-   cd react-context-api-example
+   cd context-api-tutorial | context-api-tutorial-2
 
 3. Install dependencies:
    npm install
 
 4. Start the development server:
    npm start
-
 
 5. Open your browser and visit `http://localhost:3000` to view the application.
 
